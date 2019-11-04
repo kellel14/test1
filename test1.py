@@ -1,0 +1,2 @@
+print ("kk")
+import kivy
